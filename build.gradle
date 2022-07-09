@@ -4,7 +4,7 @@
 	id 'com.android.library' version '7.1.0' apply false
 }*/
 
-apply from: '/Users/sadip/StudioProjects/MyPractise/sample/base/buildsystem/dependencies.gradle'
+
 buildscript {
 	ext.kotlin_version = '1.7.0'
 	ext.kotlin_version = "1.5.10"
